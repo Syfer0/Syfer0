@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Syfer0&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Syfer0&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact)](https://git.io/streak-stats)
+
