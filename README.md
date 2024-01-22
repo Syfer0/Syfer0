@@ -5,7 +5,9 @@
 
 ### <div align="center">I'm Arman Mulani, a full-stack developer </div>  
   
-- about me, I am a full-stack web developer with a passion for creating beautiful, functional websites. I have a love for learning new technologies. 
+- about me, I am a full-stack web developer with a passion for creating beautiful, functional websites. I have a love for learning new technologies.
+  
+- 🌱 I’m currently learning Cross Platform Technology 
    
 - ⚡ Fun fact: I use tabs over spaces  
   
