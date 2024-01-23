@@ -101,7 +101,7 @@
 
 ### :fire: My Stats :
  
- 
+ [![GitHub Streak](https://streak-stats-jade.vercel.app?user=Syfer0&theme=highcontrast)](https://git.io/streak-stats)
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Syfer0&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>  
